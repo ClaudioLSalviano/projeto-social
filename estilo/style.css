@@ -30,25 +30,26 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
-    background: url(../imagens/frame-iphone.png)no-repeat;
+    height: 350px;
+    width: 174px;
+    background: url(../imagens/frame-iphone2.png)no-repeat;
 }
 
 iframe#tela {
-    height:471px ;
-    width: 269px;
     position: relative;
-    left: 22px;
-    top: 80px;
+    left: 15px;
+    top: 47px;
+    height:259px ;
+    width: 145px;
+   
 }
 
 section#rede-sociais {
-    text-align: center;
+    text-align: right;
 }
 
 section#rede-sociais img {
-    width: 60px;
+    width: 40px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.411);
